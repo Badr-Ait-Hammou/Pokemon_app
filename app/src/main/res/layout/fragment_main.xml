@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@drawable/pokemonbackground"
+    android:background="@drawable/backgroundwallpaper"
     tools:context=".fragment.MainFragment" >
 
     <com.google.android.material.appbar.AppBarLayout
@@ -22,7 +22,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/pokemon"
+                android:src="@drawable/icons8_pikachu_pokemon"
                 android:layout_gravity="center"
                 tools:ignore="ContentDescription" />
 
