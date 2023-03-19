@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="weight">WEIGHT</string>
+    <string name="height">HEIGHT</string>
+    <string name="base_stats">☆PERFORMANCE☆</string>
+    <string name="hp">HP</string>
+    <string name="atk">ATK</string>
+    <string name="def">DEF</string>
+    <string name="spd">SPD</string>
+    <string name="exp">EXP</string>
+    <string name="ToastForOfflineMode">You are viewing in Offline Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
